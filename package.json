@@ -1,6 +1,6 @@
 {
   "name": "node-cron-job",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "An easy-to-use cron job/task scheduler for node.",
   "main": "index.js",
   "scripts": {
