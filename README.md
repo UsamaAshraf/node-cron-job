@@ -112,4 +112,5 @@ module in the master process, your jobs may run on schedule once per node instan
 ## Future releases
 
 An option will be introduced soon allowing *all* the jobs to run in one separate process.
+The API will be extended to include methods allowing running jobs to halt.
 Some of the work may be moved to a C++ extension in future releases.
