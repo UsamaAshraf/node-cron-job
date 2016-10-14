@@ -1,0 +1,34 @@
+{
+  "name": "node-cron-job",
+  "version": "0.2.2",
+  "description": "An easy-to-use cron job/task scheduler for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsamaAshraf/node-cron-job.git"
+  },
+  "keywords": [
+    "node",
+    "cron",
+    "job",
+    "task",
+    "schedule",
+    "scheduler",
+    "simple",
+    "efficient",
+    "clustered"
+  ],
+  "author": "Usama Ashraf <uashraf588@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UsamaAshraf/node-cron-job/issues"
+  },
+  "homepage": "https://github.com/UsamaAshraf/node-cron-job#readme",
+  "dependencies": {
+    "cron-parser": "^2.0.3",
+    "promise": "^7.1.1"
+  }
+}
